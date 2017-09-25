@@ -12,3 +12,7 @@ node ./bin/www
 
 # android 
 
+![运行app，选择最后一个](https://raw.githubusercontent.com/jackgreentemp/aiui/master/images/1.jpeg)
+![](https://raw.githubusercontent.com/jackgreentemp/aiui/master/images/2.jpeg)
+![](https://raw.githubusercontent.com/jackgreentemp/aiui/master/images/3.jpeg)
+![](https://raw.githubusercontent.com/jackgreentemp/aiui/master/images/4.jpeg)
