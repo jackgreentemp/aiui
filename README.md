@@ -12,7 +12,16 @@ node ./bin/www
 
 # android 
 
-![运行app，选择最后一个](https://raw.githubusercontent.com/jackgreentemp/aiui/master/images/1.jpeg)
+与官方demo的区别：在语义理解demo中加入了语音合成，将aiui返回的内容语音播报出来
+
+选择最后一个
+![](https://raw.githubusercontent.com/jackgreentemp/aiui/master/images/1.jpeg)
+
+进入录入界面，可语音或者文字录入
 ![](https://raw.githubusercontent.com/jackgreentemp/aiui/master/images/2.jpeg)
+
+文字录入示例
 ![](https://raw.githubusercontent.com/jackgreentemp/aiui/master/images/3.jpeg)
+
+语义理解结果
 ![](https://raw.githubusercontent.com/jackgreentemp/aiui/master/images/4.jpeg)
